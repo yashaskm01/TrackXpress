@@ -1,0 +1,41 @@
+#m1{
+    display: grid;
+    place-content: center;
+    background-image: radial-gradient(blue,white);
+    height: 720px;
+}
+#dis{
+    height: 500px;
+    width:500px;
+   background-image: linear-gradient(rgba(0, 0, 0, 0.526),rgba(210, 105, 30, 0.532));
+    display: grid;
+    place-items: center;
+    place-content: center;
+   border-top-right-radius: 100px;
+   border-bottom-left-radius: 100px;
+}
+#data{
+    color:black
+}
+#data1{
+    font-size: 40px;
+    color:black
+}
+#im{
+    height:200px;
+    border-radius:50%;
+}
+#bac{
+    position: relative;
+    top: 20px;
+    left:220px;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.559);
+    color: aliceblue;
+    font-weight: bold;
+}
+#bac:hover{
+    color: yellow;
+}

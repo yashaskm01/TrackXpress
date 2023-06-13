@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "customername": "harish p",
+      "phonenumber": "08123387651",
+      "location": "India",
+      "id": 28
+    },
+    {
+      "customername": "manju",
+      "phonenumber": "554654656",
+      "location": "India",
+      "id": 29
+    },
+    {
+      "customername": "oihi",
+      "phonenumber": "5465",
+      "location": "kii",
+      "id": 30
+    }
+  ]
+}
